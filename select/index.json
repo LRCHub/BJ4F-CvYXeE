@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "好き!雪!本気マジック feat. 初音ミク",
+  "base_artist": "Mitchie M",
+  "createdAt": "2025-12-04T22:45:42.386218Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "好き!雪!本気マジック",
+      "artist": "Mitchie M feat. 初音ミク",
+      "has_synced": false,
+      "path": "select/01_好き!雪!本気マジック_Mitchie_M_feat._初音ミク.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "好き!雪!本気マジック",
+      "artist": "Mitchie M",
+      "has_synced": false,
+      "path": "select/02_好き!雪!本気マジック_Mitchie_M.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "好き!雪!本気マジック",
+      "artist": "Mitchie M; 初音ミク",
+      "has_synced": false,
+      "path": "select/03_好き!雪!本気マジック_Mitchie_M;_初音ミク.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "好き! 雪! 本気マジック",
+      "artist": "Mitchie M/初音ミク",
+      "has_synced": false,
+      "path": "select/04_好き!_雪!_本気マジック_Mitchie_M_初音ミク.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "好き！雪！本気マジック",
+      "artist": "Mitchie M feat. Hatsune Miku",
+      "has_synced": false,
+      "path": "select/05_好き!雪!本気マジック_Mitchie_M_feat._Hatsune_Miku.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "好き！雪！本気マジック feat. Hatsune Miku",
+      "artist": "Mitchie M",
+      "has_synced": false,
+      "path": "select/06_好き!雪!本気マジック_feat._Hatsune_Miku_Mitchie_M.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "好き! 雪! 本気マジック",
+      "artist": "Mitchie M feat. 初音ミク",
+      "has_synced": false,
+      "path": "select/07_好き!_雪!_本気マジック_Mitchie_M_feat._初音ミク.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "好き!雪!本気マジック feat. 初音ミク",
+      "artist": "Mitchie M, Hatsune Miku",
+      "has_synced": false,
+      "path": "select/08_好き!雪!本気マジック_feat._初音ミク_Mitchie_M,_Hatsune_Miku.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "好き!雪!本気マジック feat. 初音ミク",
+      "artist": "Mitchie M",
+      "has_synced": false,
+      "path": "select/09_好き!雪!本気マジック_feat._初音ミク_Mitchie_M.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "好き!雪!本気マジック feat. 初音ミク - Suki! Yuki! Honki Magic (feat. Hatsune Miku)",
+      "artist": "Mitchie M",
+      "has_synced": false,
+      "path": "select/10_好き!雪!本気マジック_feat._初音ミク_-_Suki!_Yuki!_Honki_Magic_(feat._Hatsune_Miku)_Mitchie_M.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "好き! 雪! 本気マジック feat. 初音ミク(『SNOW MIKU 2014』テーマ曲)",
+      "artist": "Mitchie M feat.初音ミク",
+      "has_synced": false,
+      "path": "select/11_好き!_雪!_本気マジック_feat._初音ミク(『SNOW_MIKU_2014』テーマ曲)_Mitchie_M_feat.初音ミク.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "好き!雪!本気マジック (feat․ 初音ミク)",
+      "artist": "Mitchie M",
+      "has_synced": false,
+      "path": "select/12_好き!雪!本気マジック_(feat._初音ミク)_Mitchie_M.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "好き!雪!本気マジック",
+      "artist": "初音ミク",
+      "has_synced": false,
+      "path": "select/pl_01_好き!雪!本気マジック_初音ミク.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "好き!雪!本気マジック feat. 初音ミク",
+      "artist": "初音ミク",
+      "has_synced": false,
+      "path": "select/pl_02_好き!雪!本気マジック_feat._初音ミク_初音ミク.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "好き!雪!本気マジック (feat. 初音ミク)",
+      "artist": "初音ミク",
+      "has_synced": false,
+      "path": "select/pl_03_好き!雪!本気マジック_(feat._初音ミク)_初音ミク.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "好き!雪!本気マジック (feat. 初音ミク) - OSTER projectが本気でアレンジ!",
+      "artist": "初音ミク",
+      "has_synced": false,
+      "path": "select/pl_04_好き!雪!本気マジック_(feat._初音ミク)_-_OSTER_projectが本気でアレンジ!_初音ミク.txt"
+    }
+  ]
+}
